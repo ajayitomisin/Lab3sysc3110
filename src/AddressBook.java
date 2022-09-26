@@ -22,4 +22,7 @@ public class AddressBook {
         addressBook.removeBuddy(buddy);
         System.out.println("Done!");
     }
+    public BuddyInfo selectBuddy(BuddyInfo newBuddy){
+        return newBuddy;
+    }
 }
