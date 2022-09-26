@@ -25,7 +25,7 @@ public class BuddyInfo {
 
     public BuddyInfo(){
         name = "Eno";
-        address = "Envie";
+        address = "105 Champagne Avenue";
         phoneNumber = "6132334457";
     }
 }
